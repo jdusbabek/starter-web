@@ -14,4 +14,6 @@ I already know a lot, but want to learn more.
 
 ## How to Contribute
 
+I don't really want anyone else contributing to this project, so don't bother.  There are lots of other worthwhile projects out there.
+
 ## Deployment
