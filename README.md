@@ -18,4 +18,11 @@ I don't really want anyone else contributing to this project, so don't bother.  
 
 ## Deployment
 
-Deploy this to a web server.
+Deploy this to a web server.  I will be adding Docker build information forthcoming.
+
+## Docker
+
+cp ./* /var/www
+docker run -v /var/www:/var/www/html -d -p80:80 nginx/latest
+
+*/ I had to add this close comment here for my sanity.
