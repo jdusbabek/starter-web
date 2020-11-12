@@ -8,6 +8,10 @@ I'm using this project as I learn to use Git.  There are lots of things I could 
 
 ## Purpose
 
+The purpose is to learn git.
+
+I already know a lot, but want to learn more.
+
 ## How to Contribute
 
 ## Deployment
