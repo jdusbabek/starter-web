@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-	John -- DEV -- jwdred
+	John Dusbabek	jdusbabek@gmail.com		@jwdred
 
 # THANKS
 
