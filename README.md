@@ -17,6 +17,10 @@ I already know a lot, but want to learn more.
 
 I don't really want anyone else contributing to this project, so don't bother.  There are lots of other worthwhile projects out there.
 
+Add your name to humans.txt.
+
+Please fork and issue pull request. 
+
 ## Deployment
 
 Deploy this to a web server.  I will be adding Docker build information forthcoming.
