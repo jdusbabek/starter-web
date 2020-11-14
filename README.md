@@ -13,6 +13,8 @@ The purpose is to learn git.
 
 I already know a lot, but want to learn more.
 
+There is really no more purpose to this file.  Doing rebasing example.
+
 ## How to Contribute
 
 I don't really want anyone else contributing to this project, so don't bother.  There are lots of other worthwhile projects out there.
@@ -33,4 +35,4 @@ docker run -v /var/www:/var/www/html -d -p80:80 nginx/latest
 */ I had to add this close comment here for my sanity.
 
 ### Copyright
-Gopyright JDTechnology, Inc.  2020
+Copyright JDTechnology, Inc.  2020
