@@ -29,4 +29,4 @@ docker run -v /var/www:/var/www/html -d -p80:80 nginx/latest
 */ I had to add this close comment here for my sanity.
 
 ### Copyright
-Gopyright JDTechnology, Inc.
+Gopyright JDTechnology, Inc.  2020
